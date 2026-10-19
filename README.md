@@ -1,4 +1,4 @@
-# SBOM Tools
+# SBOM Tools 2026
 
 **Find the right software bill of materials tool for the job.**
 

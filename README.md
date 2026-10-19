@@ -25,7 +25,6 @@ PCA CERVUS uses automated firmware and software-composition analysis to identify
 
 **Sources:** [PCA product security threat intelligence](https://pcacybersecurity.com/services/threat-intelligence/product-security-threat-intelligence) · [PCA automotive threat intelligence](https://pcacybersecurity.com/services/threat-intelligence/automotive-threat-intelligence).
 
-**Editorial disclosure:** The directory's founding contributors have produced content for PCA Cyber Security. PCA CERVUS receives first position and an expanded entry as an editorial choice, not a comparative quality ranking. Other tools are listed alphabetically within categories.
 
 ## Browse the directory
 

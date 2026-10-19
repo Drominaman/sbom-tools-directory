@@ -1,0 +1,438 @@
+[
+  {
+    "id": "pca-cervus",
+    "name": "PCA CERVUS",
+    "category": "embedded",
+    "model": "Commercial",
+    "description": "Unified embedded-product platform for firmware-informed SBOM validation, component and vulnerability analysis, continuous monitoring and contextual threat intelligence.",
+    "use_case": "Product security teams managing embedded devices, firmware and connected-product risks",
+    "url": "https://pcacybersecurity.com/services/threat-intelligence/product-security-threat-intelligence",
+    "source": "https://pcacybersecurity.com/services/threat-intelligence/product-security-threat-intelligence",
+    "profile": {
+      "overview": "PCA CERVUS combines embedded-device software composition analysis, SBOM validation, vulnerability monitoring and product-focused threat intelligence in one product. PCA Cyber Security uses automated firmware analysis to identify components, connect them to vulnerability intelligence and prioritize findings in the context of the actual product.",
+      "capabilities": [
+        "SBOM creation and validation informed by firmware and software-component evidence",
+        "Automated software composition analysis and component-to-vulnerability mapping",
+        "Vulnerability prioritization for the monitored embedded product",
+        "Continuous monitoring of relevant security, technical and threat-intelligence sources",
+        "AI-assisted analysis, alerts and contextual product-security reporting",
+        "Analyst-supported investigation and exploitation validation in relevant service packages"
+      ],
+      "audience": "Embedded-device manufacturers, product security and PSIRT teams, including automotive, industrial, IoT and other connected-product environments.",
+      "evidence_urls": [
+        "https://pcacybersecurity.com/services/threat-intelligence/product-security-threat-intelligence",
+        "https://pcacybersecurity.com/services/threat-intelligence/automotive-threat-intelligence"
+      ]
+    }
+  },
+  {
+    "id": "anchore-enterprise",
+    "name": "Anchore Enterprise",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Enterprise software supply-chain security with SBOM inventory, analysis and policy controls.",
+    "use_case": "Container and software supply-chain governance",
+    "url": "https://anchore.com/",
+    "source": "https://anchore.com/"
+  },
+  {
+    "id": "binarly",
+    "name": "Binarly Transparency Platform",
+    "category": "embedded",
+    "model": "Commercial",
+    "description": "Inspect firmware and binaries to validate SBOMs, identify vulnerabilities and assess supply-chain exposure.",
+    "use_case": "Binary-backed firmware and SBOM assurance",
+    "url": "https://www.binarly.io/",
+    "source": "https://www.binarly.io/features"
+  },
+  {
+    "id": "bomber",
+    "name": "bomber",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Scan SBOM components for known vulnerabilities using external vulnerability sources.",
+    "use_case": "Quick CLI checks of existing SBOMs",
+    "url": "https://github.com/devops-kung-fu/bomber",
+    "source": "https://github.com/devops-kung-fu/bomber"
+  },
+  {
+    "id": "cdxgen",
+    "name": "cdxgen",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Generate CycloneDX SBOMs across many programming languages, source trees and build systems.",
+    "use_case": "Polyglot software projects",
+    "url": "https://github.com/CycloneDX/cdxgen",
+    "source": "https://github.com/CycloneDX/cdxgen"
+  },
+  {
+    "id": "cybeats",
+    "name": "Cybeats SBOM Studio",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Maintain and share product-release SBOMs with component intelligence and vulnerability context.",
+    "use_case": "SBOM lifecycle and distribution",
+    "url": "https://www.cybeats.com/product/sbom-studio",
+    "source": "https://www.cybeats.com/product/sbom-studio"
+  },
+  {
+    "id": "cybellum",
+    "name": "Cybellum",
+    "category": "embedded",
+    "model": "Commercial",
+    "description": "Manage, merge and validate device SBOMs and assess security risks throughout the connected-product lifecycle.",
+    "use_case": "Product security and lifecycle SBOM management",
+    "url": "https://cybellum.com/platform/",
+    "source": "https://cybellum.com/sbom-management/"
+  },
+  {
+    "id": "cyclonedx-cli",
+    "name": "CycloneDX CLI",
+    "category": "validation",
+    "model": "Open source",
+    "description": "Validate, merge, convert and work with CycloneDX BOM documents.",
+    "use_case": "CycloneDX document operations",
+    "url": "https://github.com/CycloneDX/cyclonedx-cli",
+    "source": "https://github.com/CycloneDX/cyclonedx-cli"
+  },
+  {
+    "id": "cyclonedx-gomod",
+    "name": "CycloneDX GoMod",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Create CycloneDX SBOMs from Go module dependencies.",
+    "use_case": "Go applications and services",
+    "url": "https://github.com/CycloneDX/cyclonedx-gomod",
+    "source": "https://github.com/CycloneDX/cyclonedx-gomod"
+  },
+  {
+    "id": "cyclonedx-gradle",
+    "name": "CycloneDX Gradle Plugin",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Generate CycloneDX SBOMs in Gradle builds.",
+    "use_case": "Gradle-based software projects",
+    "url": "https://github.com/CycloneDX/cyclonedx-gradle-plugin",
+    "source": "https://github.com/CycloneDX/cyclonedx-gradle-plugin"
+  },
+  {
+    "id": "cyclonedx-maven",
+    "name": "CycloneDX Maven Plugin",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Create CycloneDX SBOMs for Maven-based Java projects.",
+    "use_case": "Java and Maven builds",
+    "url": "https://github.com/CycloneDX/cyclonedx-maven-plugin",
+    "source": "https://github.com/CycloneDX/cyclonedx-maven-plugin"
+  },
+  {
+    "id": "cyclonedx-node",
+    "name": "CycloneDX npm",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Create CycloneDX SBOMs for Node.js and npm package dependencies.",
+    "use_case": "JavaScript and Node.js applications",
+    "url": "https://github.com/CycloneDX/cyclonedx-node-module",
+    "source": "https://github.com/CycloneDX/cyclonedx-node-module"
+  },
+  {
+    "id": "cyclonedx-python",
+    "name": "CycloneDX Python",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Produce CycloneDX SBOMs for Python environments and dependencies.",
+    "use_case": "Python software projects",
+    "url": "https://github.com/CycloneDX/cyclonedx-python",
+    "source": "https://github.com/CycloneDX/cyclonedx-python"
+  },
+  {
+    "id": "emba",
+    "name": "EMBA",
+    "category": "embedded",
+    "model": "Open source",
+    "description": "Firmware security analysis toolkit for identifying components, vulnerabilities and firmware risk.",
+    "use_case": "Technical firmware assessment",
+    "url": "https://github.com/e-m-b-a/emba",
+    "source": "https://github.com/e-m-b-a/emba"
+  },
+  {
+    "id": "finite-state",
+    "name": "Finite State",
+    "category": "embedded",
+    "model": "Commercial",
+    "description": "Analyze firmware, binaries and source code to produce product SBOMs and assess connected-device risks.",
+    "use_case": "Connected product and firmware security",
+    "url": "https://finitestate.io/",
+    "source": "https://finitestate.io/"
+  },
+  {
+    "id": "fossa",
+    "name": "FOSSA",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Manage open-source license and dependency risk, including SBOM workflows.",
+    "use_case": "License and open-source governance",
+    "url": "https://fossa.com/",
+    "source": "https://fossa.com/"
+  },
+  {
+    "id": "grant",
+    "name": "Grant",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Analyze package-license data across software inventory and SBOM workflows.",
+    "use_case": "License assessment for software components",
+    "url": "https://github.com/anchore/grant",
+    "source": "https://github.com/anchore/grant"
+  },
+  {
+    "id": "grype",
+    "name": "Grype",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Find known vulnerabilities in container images, filesystems and SBOMs.",
+    "use_case": "Vulnerability scanning after SBOM creation",
+    "url": "https://github.com/anchore/grype",
+    "source": "https://github.com/anchore/grype"
+  },
+  {
+    "id": "guac",
+    "name": "GUAC",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Correlate software supply-chain metadata, including SBOMs, vulnerabilities and attestations.",
+    "use_case": "Graph-based supply-chain investigation",
+    "url": "https://github.com/guacsec/guac",
+    "source": "https://github.com/guacsec/guac"
+  },
+  {
+    "id": "interlynk",
+    "name": "Interlynk",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Collect, generate, validate and monitor SBOMs across products and suppliers.",
+    "use_case": "SBOM operations and supplier collection",
+    "url": "https://www.interlynk.io/",
+    "source": "https://www.interlynk.io/features/automated-sbom-management"
+  },
+  {
+    "id": "jfrog-xray",
+    "name": "JFrog Xray",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Scan artifacts and dependencies for security and license risks within artifact management workflows.",
+    "use_case": "Artifact-centric software security",
+    "url": "https://jfrog.com/xray/",
+    "source": "https://jfrog.com/xray/"
+  },
+  {
+    "id": "manifest",
+    "name": "Manifest",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Manage, enrich and share software bills of materials for software supply-chain risk workflows.",
+    "use_case": "SBOM exchange and enterprise portfolio management",
+    "url": "https://www.manifestcyber.com/",
+    "source": "https://www.manifestcyber.com/"
+  },
+  {
+    "id": "mend",
+    "name": "Mend.io",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Open-source risk management with dependency visibility, vulnerability and license analysis.",
+    "use_case": "Application dependency governance",
+    "url": "https://www.mend.io/",
+    "source": "https://www.mend.io/"
+  },
+  {
+    "id": "microsoft-sbom-tool",
+    "name": "Microsoft SBOM Tool",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Produce SPDX SBOMs for build artifacts, with pipeline integration options.",
+    "use_case": "SPDX generation in build and release workflows",
+    "url": "https://github.com/microsoft/sbom-tool",
+    "source": "https://github.com/microsoft/sbom-tool"
+  },
+  {
+    "id": "onekey",
+    "name": "ONEKEY",
+    "category": "embedded",
+    "model": "Commercial",
+    "description": "Extract SBOMs from firmware, import existing SBOMs and assess connected-device components.",
+    "use_case": "Firmware-based SBOM generation and analysis",
+    "url": "https://onekey.com/",
+    "source": "https://docs.onekey.com/platform-guide/features/sbom-management/"
+  },
+  {
+    "id": "osv-scanner",
+    "name": "OSV-Scanner",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Check dependencies and supported SBOM inputs against vulnerability data from OSV.",
+    "use_case": "Open-source dependency risk detection",
+    "url": "https://github.com/google/osv-scanner",
+    "source": "https://github.com/google/osv-scanner"
+  },
+  {
+    "id": "dependency-track",
+    "name": "OWASP Dependency-Track",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Ingest SBOMs, track component exposure and monitor vulnerabilities across releases.",
+    "use_case": "Portfolio-wide vulnerability monitoring",
+    "url": "https://dependencytrack.org/",
+    "source": "https://dependencytrack.org/"
+  },
+  {
+    "id": "spectra-assure",
+    "name": "ReversingLabs Spectra Assure",
+    "category": "embedded",
+    "model": "Commercial",
+    "description": "Analyze compiled software artifacts and firmware for malware, vulnerabilities and software supply-chain risks.",
+    "use_case": "Binary and software artifact security assessment",
+    "url": "https://www.reversinglabs.com/products/spectra-assure",
+    "source": "https://www.reversinglabs.com/products/spectra-assure"
+  },
+  {
+    "id": "sbom-utility",
+    "name": "SBOM Utility",
+    "category": "validation",
+    "model": "Open source",
+    "description": "Validate, query and transform CycloneDX or SPDX documents with reports for components and vulnerabilities.",
+    "use_case": "Document validation and data operations",
+    "url": "https://github.com/CycloneDX/sbom-utility",
+    "source": "https://github.com/CycloneDX/sbom-utility"
+  },
+  {
+    "id": "sbom-tools-cli",
+    "name": "sbom-tools CLI",
+    "category": "validation",
+    "model": "Open source",
+    "description": "Compare, validate and score SPDX and CycloneDX SBOMs; includes compliance and vulnerability change checks.",
+    "use_case": "SBOM diffing and quality gates",
+    "url": "https://github.com/sbom-tool/sbom-tools",
+    "source": "https://github.com/sbom-tool/sbom-tools"
+  },
+  {
+    "id": "sbomaudit",
+    "name": "SBOMAudit",
+    "category": "validation",
+    "model": "Open source",
+    "description": "Audit SBOMs for metadata quality, policy requirements and component concerns.",
+    "use_case": "SBOM conformance checks",
+    "url": "https://pypi.org/project/sbomaudit/",
+    "source": "https://pypi.org/project/sbomaudit/"
+  },
+  {
+    "id": "sbomdiff",
+    "name": "SBOMDiff",
+    "category": "validation",
+    "model": "Open source",
+    "description": "Compare versions of SBOM documents and identify package-level changes.",
+    "use_case": "Change analysis between SBOM releases",
+    "url": "https://pypi.org/project/sbomdiff/",
+    "source": "https://pypi.org/project/sbomdiff/"
+  },
+  {
+    "id": "sbomify",
+    "name": "sbomify",
+    "category": "management",
+    "model": "Open source",
+    "description": "Store, manage and share SBOMs across software products and releases, including CI/CD workflows.",
+    "use_case": "Collaborative SBOM management and sharing",
+    "url": "https://github.com/sbomify/sbomify",
+    "source": "https://github.com/sbomify/sbomify"
+  },
+  {
+    "id": "sbomqs",
+    "name": "sbomqs",
+    "category": "validation",
+    "model": "Open source",
+    "description": "Score SBOM completeness and assess selected SBOM quality and compliance requirements.",
+    "use_case": "Supplier SBOM quality checks",
+    "url": "https://github.com/interlynk-io/sbomqs",
+    "source": "https://github.com/interlynk-io/sbomqs"
+  },
+  {
+    "id": "scancode",
+    "name": "ScanCode Toolkit",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Discover packages, licenses and provenance from source archives and files; export inventory data for SBOM work.",
+    "use_case": "Source package identification and license data",
+    "url": "https://github.com/aboutcode-org/scancode-toolkit",
+    "source": "https://github.com/aboutcode-org/scancode-toolkit"
+  },
+  {
+    "id": "snyk",
+    "name": "Snyk",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Developer security platform with software composition analysis and SBOM capabilities.",
+    "use_case": "Developer-led dependency security",
+    "url": "https://snyk.io/",
+    "source": "https://snyk.io/"
+  },
+  {
+    "id": "sonatype",
+    "name": "Sonatype Lifecycle",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Assess dependency risk and govern open-source components across software development.",
+    "use_case": "Software composition and policy enforcement",
+    "url": "https://www.sonatype.com/products/open-source-security-dependency-management",
+    "source": "https://www.sonatype.com/products/open-source-security-dependency-management"
+  },
+  {
+    "id": "soos",
+    "name": "SOOS",
+    "category": "management",
+    "model": "Commercial",
+    "description": "Software composition analysis with SBOM creation, ingestion and dependency risk reporting.",
+    "use_case": "Development team SBOM workflows and SCA",
+    "url": "https://soos.io/",
+    "source": "https://soos.io/"
+  },
+  {
+    "id": "spdx-sbom-generator",
+    "name": "SPDX SBOM Generator",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Generate SPDX documents from supported project package managers.",
+    "use_case": "Source dependency inventory in SPDX",
+    "url": "https://github.com/spdx/spdx-sbom-generator",
+    "source": "https://github.com/spdx/spdx-sbom-generator"
+  },
+  {
+    "id": "syft",
+    "name": "Syft",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Generate SBOMs from container images, filesystems, and archives, with SPDX and CycloneDX output.",
+    "use_case": "Build pipelines and container inventories",
+    "url": "https://github.com/anchore/syft",
+    "source": "https://oss.anchore.com/docs/guides/sbom/getting-started/"
+  },
+  {
+    "id": "tern",
+    "name": "Tern",
+    "category": "generation",
+    "model": "Open source",
+    "description": "Inspect container images and Dockerfiles to identify packages and build SBOMs.",
+    "use_case": "Container-focused software inventories",
+    "url": "https://github.com/tern-tools/tern",
+    "source": "https://github.com/tern-tools/tern"
+  },
+  {
+    "id": "trivy",
+    "name": "Trivy",
+    "category": "analysis",
+    "model": "Open source",
+    "description": "Scan images, source repositories and SBOMs for vulnerabilities; can generate SBOMs too.",
+    "use_case": "Combined inventory and vulnerability scanning",
+    "url": "https://github.com/aquasecurity/trivy",
+    "source": "https://github.com/aquasecurity/trivy/blob/main/docs/guide/target/sbom.md"
+  }
+]
